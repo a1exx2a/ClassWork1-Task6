@@ -1,0 +1,14 @@
+F:\Backend\C#\Lesson4\Task6\bin\Debug\net9.0\Task6.exe
+F:\Backend\C#\Lesson4\Task6\bin\Debug\net9.0\Task6.deps.json
+F:\Backend\C#\Lesson4\Task6\bin\Debug\net9.0\Task6.runtimeconfig.json
+F:\Backend\C#\Lesson4\Task6\bin\Debug\net9.0\Task6.dll
+F:\Backend\C#\Lesson4\Task6\bin\Debug\net9.0\Task6.pdb
+F:\Backend\C#\Lesson4\Task6\obj\Debug\net9.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backend\C#\Lesson4\Task6\obj\Debug\net9.0\Task6.AssemblyInfoInputs.cache
+F:\Backend\C#\Lesson4\Task6\obj\Debug\net9.0\Task6.AssemblyInfo.cs
+F:\Backend\C#\Lesson4\Task6\obj\Debug\net9.0\Task6.csproj.CoreCompileInputs.cache
+F:\Backend\C#\Lesson4\Task6\obj\Debug\net9.0\Task6.dll
+F:\Backend\C#\Lesson4\Task6\obj\Debug\net9.0\refint\Task6.dll
+F:\Backend\C#\Lesson4\Task6\obj\Debug\net9.0\Task6.pdb
+F:\Backend\C#\Lesson4\Task6\obj\Debug\net9.0\Task6.genruntimeconfig.cache
+F:\Backend\C#\Lesson4\Task6\obj\Debug\net9.0\ref\Task6.dll
